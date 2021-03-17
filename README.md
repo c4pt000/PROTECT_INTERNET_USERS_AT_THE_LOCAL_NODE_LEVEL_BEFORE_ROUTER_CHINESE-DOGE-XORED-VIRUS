@@ -1,3 +1,11 @@
+* suggested
+* Compiled against library: libvirt 7.1.0
+* Using library: libvirt 7.1.0
+* Using API: QEMU 7.1.0
+* Running hypervisor: QEMU 5.2.0
+
+requires two physicals NICs ports that can be seperated or used individually as a passed through adapter one for WAN passed through and one for LAN to host running KVM image
+
 # CHINESE-DOGE-XORED-VIRUS
 # * https://www.intezer.com/blog/malware-analysis/new-linux-backdoor-redxor-likely-operated-by-chinese-nation-state-actor/
 pfsense+snort+clamav+firewall below template flat image qcow2
