@@ -46,6 +46,8 @@ Maybe a possible to solution to problems like this could consist of clamAV antiv
 	<p> even a snort based google lens plugin could detect sources of credit cards marked for fraud and other money based movement and financial fraud activity at the ISP node and cell node level as linked by financial instiution <p>
 		
 
+https://raw.githubusercontent.com/c4pt000/CHINESE-DOGE-XORED-VIRUS/main/TOR-Snort-lens-scan.png<p align="center"><img src="https://raw.githubusercontent.com/c4pt000/CHINESE-DOGE-XORED-VIRUS/main/TOR-Snort-lens-scan.png" width="500"></p>
+
 
 https://imgur.com/gallery/zclU4am<p align="center"><img src="https://i.imgur.com/h4SQVmL.png" width="800"></p>
 
