@@ -1,0 +1,1 @@
+"..................----------> rhgb vga=792 iommu=pt intel_iommu=on cgroup_enable=memory,namespace systemd.unified_cgroup_hierarchy=0 vfio-pci.ids=8086:10c9 pcie_acs_override=multifunction "
