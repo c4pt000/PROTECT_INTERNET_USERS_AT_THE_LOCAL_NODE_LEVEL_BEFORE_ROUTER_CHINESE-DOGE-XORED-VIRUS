@@ -42,6 +42,8 @@ Maybe a possible to solution to problems like this could consist of clamAV antiv
   <p>
 	  <p> A snort based google lens plugin would cut down on dating scams by detecting image data as it travels, if snort or suricata implemented a type of "google lens" plugin to detect image data as it travels from node to node. Pfsense already has snort or suricata which can detect signatures from Tor, bittorrent and other app id signatures.
 	  <p>	  
+# <p> threw google lens as a snort plugin at the ISP node level and filtering packets to discovery TOR activity then revealing illegal tor nodes is possible since any customer receiving broadband is within a 2-3 mile range of an ISP node (or even cell node tower) threw smart detection to discovery bizarrities of malicious behavoir this is problably a better approach than my other idea of designing a non destructive worm to "ip reveal" at the pack level per tor node entry and exit hop <p>
+
 
 https://imgur.com/gallery/zclU4am<p align="center"><img src="https://i.imgur.com/h4SQVmL.png" width="800"></p>
 
