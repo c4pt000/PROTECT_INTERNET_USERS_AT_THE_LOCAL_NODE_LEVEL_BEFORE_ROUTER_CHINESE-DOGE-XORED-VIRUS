@@ -42,7 +42,7 @@ Maybe a possible to solution to problems like this could consist of clamAV antiv
   <p>
 	  
 	
- <p> a customer effected by a malicious virus could be placed by the ISP into a constricive online WAN outbound and inbound signal with limited ability but not to cut off any type of emergency based access or the possibilities to allow download of anti-virus tools to stop the propagation of digital viruses. sources that are spreading the viruses actively could be limited based on outbound ip data usage and packet through output depending on if the machine is infected without being able to acknowledge it as part of a virus botnet <p>
+ <p> a customer effected by a malicious virus could be placed by the ISP into a constricive online WAN outbound and inbound signal with limited ability but not to cut off any type of emergency based access or the possibilities to allow download of anti-virus tools to stop the propagation of digital viruses. sources that are spreading the viruses actively could be limited based on outbound ip data usage and packet through output depending on if the machine is infected without being able to acknowledge if it in fact part of a virus botnet <p>
 		  <p> there are also filtering rules to detect torrents and limit DMCA by throttling throughput by scanning torrent data through a modified IDS plugin that can detect the app signature of the packets <p>
 		  <p> A snort based google lens plugin would cut down on dating scams by detecting image data as it travels, if snort or suricata implemented a type of "google lens" plugin to detect image data as it travels from node to node. Pfsense already has snort or suricata which can detect signatures from Tor, bittorrent and other app id signatures.
 	  <p>	  
