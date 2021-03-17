@@ -6,6 +6,11 @@
 
 requires two physicals NICs ports that can be seperated or used individually as a passed through adapter one for WAN passed through and one for LAN to host running KVM image
 
+create ECDSA based self signed CA cert in "cert manager"
+default user pass for this image
+admin
+pfsense
+
 # pfsense+snort+clamav+firewall below template flat image qcow2
 
 * pfsense-2.5.0-template_flat.qcow2.tar.gz
