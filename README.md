@@ -16,6 +16,8 @@ pfsense+snort+clamav+firewall below template flat image qcow2
 https://drive.google.com/file/d/1eMU4b1Lqblhvse64sO1ACN1QQgdp6Yhv/view?usp=sharing
 
 
+
+# OT if this were a "microbased" image < 800MB~ -> self pruning
 <p>
 Maybe a possible to solution to problems like this could consist of clamAV antivirus scanning of data moving from ISP node to node or even Cellular Tower node to node so the ISP can track websites with problematic virus problems, similar to collecting data with cellular phone mesh networks.
 	Since data has to travel each way from the customer sending and receiving data to and from the ISPs this data can be scanned on the fly using clamAV to narrow down on the attack vector of internet based viruses.
