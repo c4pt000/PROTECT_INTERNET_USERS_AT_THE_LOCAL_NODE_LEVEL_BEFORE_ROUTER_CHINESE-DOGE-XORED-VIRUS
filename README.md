@@ -41,16 +41,10 @@ Maybe a possible to solution to problems like this could consist of clamAV antiv
 	Most viruses being detected, 90% of the time are not false positives or non destructive viruses when it consists of it being in the domain of a Trojan or a RAT typed virus.
   <p>
 	  
-	  <br>
-	  <br>
-	  <br>
-	  <br>
- <p> a customer effected by a malicious virus could be placed by the ISP into a constricive online WAN outbound and inbound signal with limited ability but not to cut off any type of emergency based access or the possibilities to allow download of anti-virus tools to stop the propagation of digital viruses. sources that are spreading the viruses actively could be limited based on outbound ip data usage and packet through output depending on if the machine is infected without being able to acknowledge it as part of a virus botnet <p>
 	
-	  <p> there are also filtering rules to detect torrents and limit DMCA by throttling throughput by scanning torrent data through a modified IDS plugin that can detect the app signature of the packets <p>
-	  
-	  
-	  <p> A snort based google lens plugin would cut down on dating scams by detecting image data as it travels, if snort or suricata implemented a type of "google lens" plugin to detect image data as it travels from node to node. Pfsense already has snort or suricata which can detect signatures from Tor, bittorrent and other app id signatures.
+ <p> a customer effected by a malicious virus could be placed by the ISP into a constricive online WAN outbound and inbound signal with limited ability but not to cut off any type of emergency based access or the possibilities to allow download of anti-virus tools to stop the propagation of digital viruses. sources that are spreading the viruses actively could be limited based on outbound ip data usage and packet through output depending on if the machine is infected without being able to acknowledge it as part of a virus botnet <p>
+		  <p> there are also filtering rules to detect torrents and limit DMCA by throttling throughput by scanning torrent data through a modified IDS plugin that can detect the app signature of the packets <p>
+		  <p> A snort based google lens plugin would cut down on dating scams by detecting image data as it travels, if snort or suricata implemented a type of "google lens" plugin to detect image data as it travels from node to node. Pfsense already has snort or suricata which can detect signatures from Tor, bittorrent and other app id signatures.
 	  <p>	  
 # <p> threw google lens as a snort plugin at the ISP node level and filtering packets to discovery TOR activity then revealing illegal tor nodes is possible since any customer receiving broadband is within a 2-3 mile range of an ISP node (or even cell node tower) threw smart detection to discovery bizarrities of malicious behavoir this is problably a better approach than my other idea of designing a non destructive worm to "ip reveal" at the pack level per tor node entry and exit hop <p>
 	<p> even a snort based google lens plugin could detect sources of credit cards marked for fraud and other money based movement and financial fraud activity at the ISP node and cell node level as linked by financial instiution <p>
