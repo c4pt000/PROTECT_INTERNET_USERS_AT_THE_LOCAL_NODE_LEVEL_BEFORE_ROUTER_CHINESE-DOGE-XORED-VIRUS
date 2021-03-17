@@ -7,6 +7,9 @@
 requires two physicals NICs ports that can be seperated or used individually as a passed through adapter one for WAN passed through and one for LAN to host running KVM image
 
 # pfsense+snort+clamav+firewall below template flat image qcow2
+
+* pfsense-2.5.0-template_flat.qcow2.tar.gz
+
 # https://drive.google.com/file/d/1eMU4b1Lqblhvse64sO1ACN1QQgdp6Yhv/view?usp=sharing
 
 source should be in KVM disk image store located in this XML
