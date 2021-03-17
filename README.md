@@ -7,7 +7,7 @@
 requires two physicals NICs ports that can be seperated or used individually as a passed through adapter one for WAN passed through and one for LAN to host running KVM image
 
 source should be in KVM disk image store located in this XML
-      <source file='/home/KVM-IMAGES/pfsense-2.5.0-template_flat.qcow2'/>
+   <p>   <source file='/home/KVM-IMAGES/pfsense-2.5.0-template_flat.qcow2'/> <p>
 
 
 # CHINESE-DOGE-XORED-VIRUS
