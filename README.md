@@ -22,6 +22,9 @@
 
 requires two physicals NICs ports that can be seperated or used individually as a passed through adapter one for WAN passed through and one for LAN to host running KVM image
 
+https://raw.githubusercontent.com/c4pt000/PROTECT_INTERNET_USERS_AT_THE_LOCAL_NODE_LEVEL_BEFORE_ROUTER_CHINESE-DOGE-XORED-VIRUS/main/SQUID-CA-SSL.png<p align="center"><img src="https://raw.githubusercontent.com/c4pt000/PROTECT_INTERNET_USERS_AT_THE_LOCAL_NODE_LEVEL_BEFORE_ROUTER_CHINESE-DOGE-XORED-VIRUS/main/SQUID-CA-SSL.png width="500"></p>
+
+
 <br>
 * create ECDSA based self signed CA cert in "cert manager" also requires "exporting the CA self signed cert to import into the browser accessing squidguard clamav * scanning and enabling the self signed cert in the squidguard proxy
 * PackageProxy Server: General SettingsGeneral -> https://github.com/c4pt000/CHINESE-DOGE-XORED-VIRUS/blob/main/CA-self-signed.png Services->Squid Proxy Server
