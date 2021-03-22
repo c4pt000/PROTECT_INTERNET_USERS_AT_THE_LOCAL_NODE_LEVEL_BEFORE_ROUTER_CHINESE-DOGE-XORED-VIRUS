@@ -22,7 +22,7 @@
 
 requires two physicals NICs ports that can be seperated or used individually as a passed through adapter one for WAN passed through and one for LAN to host running KVM image
 
-https://raw.githubusercontent.com/c4pt000/PROTECT_INTERNET_USERS_AT_THE_LOCAL_NODE_LEVEL_BEFORE_ROUTER_CHINESE-DOGE-XORED-VIRUS/main/SQUID-CA-SSL.png<p align="center"><img src="https://raw.githubusercontent.com/c4pt000/PROTECT_INTERNET_USERS_AT_THE_LOCAL_NODE_LEVEL_BEFORE_ROUTER_CHINESE-DOGE-XORED-VIRUS/main/SQUID-CA-SSL.png width="500"></p>
+
 
 
 <br>
@@ -38,6 +38,9 @@ pfsense
 * SSL errors from self signed certificate can be debugged by disabling "Check to enable squid proxy"
 
 * the self signed cert also needs to be imported into bash or /etc/pki/ssl for using command line functions like wget, curl, yum or other command line processes that require verification of ssl with the CA
+
+
+<p align="center"><img src="https://raw.githubusercontent.com/c4pt000/PROTECT_INTERNET_USERS_AT_THE_LOCAL_NODE_LEVEL_BEFORE_ROUTER_CHINESE-DOGE-XORED-VIRUS/main/SQUID-CA-SSL.png width="500"></p>
 
 # pfsense+snort+clamav+firewall below template flat image qcow2
 
