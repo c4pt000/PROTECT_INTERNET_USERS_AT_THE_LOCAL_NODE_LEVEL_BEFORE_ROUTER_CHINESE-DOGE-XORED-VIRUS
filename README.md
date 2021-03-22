@@ -34,6 +34,7 @@ pfsense
 <br>
 * SSL errors from self signed certificate can be debugged by disabling "Check to enable squid proxy"
 
+
 https://raw.githubusercontent.com/c4pt000/PROTECT_INTERNET_USERS_AT_THE_LOCAL_NODE_LEVEL_BEFORE_ROUTER_CHINESE-DOGE-XORED-VIRUS/main/SQUID-CA-SSL.png<p align="center"><img src="https://raw.githubusercontent.com/c4pt000/PROTECT_INTERNET_USERS_AT_THE_LOCAL_NODE_LEVEL_BEFORE_ROUTER_CHINESE-DOGE-XORED-VIRUS/main/SQUID-CA-SSL.png width="500"></p>
 
 
