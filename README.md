@@ -1,4 +1,6 @@
- 
+
+## GENERALIZED PROPOSAL
+
 * snort detection of compromised mouse "clipboard" copy paste https://medium.com/@desertedness/how-websites-can-hijack-your-clipboard-beea4f4cbb94
 
 * snort plugin for detecting crypto currency hijacking as signature to protect cryptocurrencies wallet.dat from a suspicious overseas ip or TOR node ip transmission
@@ -30,6 +32,12 @@ admin
 <br>
 pfsense
 <br>
+* SSL errors from self signed certificate can be debugged by disabling "Check to enable squid proxy"
+
+* https://raw.githubusercontent.com/c4pt000/PROTECT_INTERNET_USERS_AT_THE_LOCAL_NODE_LEVEL_BEFORE_ROUTER_CHINESE-DOGE-XORED-VIRUS/main/SQUID-CA-SSL.png<p align="center"><img src="https://raw.githubusercontent.com/c4pt000/PROTECT_INTERNET_USERS_AT_THE_LOCAL_NODE_LEVEL_BEFORE_ROUTER_CHINESE-DOGE-XORED-VIRUS/main/SQUID-CA-SSL.png width="500"></p>
+ 
+
+* the self signed cert also needs to be imported into bash or /etc/pki/ssl for using command line functions like wget, curl, yum or other command line processes that require verification of ssl with the CA
 
 # pfsense+snort+clamav+firewall below template flat image qcow2
 
