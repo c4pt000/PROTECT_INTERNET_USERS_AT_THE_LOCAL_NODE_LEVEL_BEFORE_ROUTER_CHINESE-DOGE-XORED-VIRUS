@@ -58,7 +58,7 @@ admin
 <br>
 pfsense
 <br>
-
+# change from System>User Manager> admin password "edit"
 
 # pfsense+snort+clamav+firewall below template flat image qcow2
 
