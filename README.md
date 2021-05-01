@@ -1,10 +1,17 @@
 ## see https://github.com/c4pt000/QUANTUM_PROTECTION_FOR_CLASSIC-ENCRYPTION-PROTECTION-AT_THE_HARDWARE_LEVEL_IN_THE_PROCESSOR for quantum computing protection at the node level
 
 # could be at the node level for customer distribution and cellular distribution and also as an operating system ROM area (similar to SIP on macOS) for mac, linux, windows, android, ios
+
 # as a ROM protected area running the functions to communicate with the local node whether cellular or landline, similar to macOS SIP with a protected system area but for the IDS and antivirus functions + google lens detection of unwanted photos 
 
 # where the data in question could be locked in the system from user deletion, and user access with operating system programs,
 # viruses neutralized, unwanted photos flagged, and malicious packet data stopped
+
+UIP / SIP
+
+aside from this a language filter could be installed into UIP (User Integrity Protection) to only allow english- input or regular language input with grammar checking, syntax, spelling and a profanity blocker, since most of these currently exist for most word processing programs like word and other programs a filter could be installed into a read only memory area of UIP (along side of SIP) to ony allow proper language inout to stop hidden signals in different languages and vice versa,
+
+(my own thoughts are that only english should be used as input with american computers and other languages should be blocked as input from leaving the computer at the packet level since most americans speak english and use engish day to day in business and other environments like scholastics and in industry not as a form of censorship or an alternative form of communism but as a form of protection for day to day citizens)
 
 ## GENERALIZED PROPOSAL , experimental WIP** template use at your own discretion needs to be rule provisioned by squidguard + snort
 
