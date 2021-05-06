@@ -1,5 +1,8 @@
 ## see https://github.com/c4pt000/QUANTUM_PROTECTION_FOR_CLASSIC-ENCRYPTION-PROTECTION-AT_THE_HARDWARE_LEVEL_IN_THE_PROCESSOR for quantum computing protection at the node level
 
+
+# google needs to disable calendar automatic invite events on google signup accounts by default, google is victimizing too many people allowing them to be fooled into crimes such as sextortion and other vile crimes
+
 # could be at the node level for customer distribution and cellular distribution and also as an operating system ROM area (similar to SIP on macOS) for mac, linux, windows, android, ios
 
 # as a ROM protected area running the functions to communicate with the local node whether cellular or landline, similar to macOS SIP with a protected system area but for the IDS and antivirus functions + google lens detection of unwanted photos 
