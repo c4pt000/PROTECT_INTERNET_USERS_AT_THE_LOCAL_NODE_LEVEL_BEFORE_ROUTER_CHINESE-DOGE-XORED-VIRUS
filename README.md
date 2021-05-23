@@ -1,9 +1,9 @@
 ## see https://github.com/c4pt000/QUANTUM_PROTECTION_FOR_CLASSIC-ENCRYPTION-PROTECTION-AT_THE_HARDWARE_LEVEL_IN_THE_PROCESSOR for quantum computing protection at the node level
 
 
-https://github.com/c4pt000/caja
+# https://github.com/c4pt000/caja
 
-* metadata of website of screenshot or image download in properties of file in caja , thundar, etc
+# * metadata of website of screenshot or image download in properties of file in caja , thundar, etc
 
 ![s1](https://raw.githubusercontent.com/c4pt000/caja/master/image-details-screenshot-machine-info-Tcamera-type-Tmodel.png)
 
