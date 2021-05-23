@@ -1,6 +1,13 @@
 ## see https://github.com/c4pt000/QUANTUM_PROTECTION_FOR_CLASSIC-ENCRYPTION-PROTECTION-AT_THE_HARDWARE_LEVEL_IN_THE_PROCESSOR for quantum computing protection at the node level
 
 
+https://github.com/c4pt000/caja
+
+* metadata of website of screenshot or image download in properties of file in caja , thundar, etc
+
+![s1](https://raw.githubusercontent.com/c4pt000/caja/master/image-details-screenshot-machine-info-Tcamera-type-Tmodel.png)
+
+
 # google needs to disable calendar automatic invite events on google signup accounts by default, and current accounts google is victimizing too many people allowing them to be fooled into crimes such as sextortion and other vile crimes
 
 # could be at the node level for customer distribution and cellular distribution and also as an operating system ROM area (similar to SIP on macOS) for mac, linux, windows, android, ios
