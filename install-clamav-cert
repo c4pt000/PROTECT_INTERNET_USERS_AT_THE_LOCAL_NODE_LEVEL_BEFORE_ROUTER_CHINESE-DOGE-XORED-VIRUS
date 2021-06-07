@@ -1,6 +1,0 @@
-#!/bin/bash
-sudo yum install sudo wget -y
-apt-get install sudo wget -y
-wget https://github.com/c4pt000/XORED-defense-photochain-project/raw/main/ECDSA.crt
-cp ECDSA.crt /usr/share/pki/ca-trust-source/anchors/
-sudo update-ca-trust
